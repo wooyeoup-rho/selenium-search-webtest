@@ -2,7 +2,7 @@
 
 Basic automation framework using Selenium WebDriver and Cucumber.
 
-Testing the search functinonality at [OWASP Juice Shop](https://juice-shop.herokuapp.com/) in the following scenarios:
+Testing the search functionality at [OWASP Juice Shop](https://juice-shop.herokuapp.com/) in the following scenarios:
 
 1. Search for a valid term (Apple)
 2. Search for a valid term with special characters (1000ml)
